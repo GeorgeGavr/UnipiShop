@@ -1,0 +1,9 @@
+# Εξαιρεση του virtual environment
+venv/
+
+# Εξαιρεση των api keys και ports
+.env
+
+# Εξαιρεση των αρχείων προσωρινής μνήμης της Python
+__pycache__/
+*.pyc
