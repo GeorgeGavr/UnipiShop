@@ -1,3 +1,6 @@
+#Έγινε autogeneration από το pip freeze
+#Αυτή η εντολή δημιουργεί ένα αρχείο requirements.txt με όλες τις βιβλιοθήκες που είναι εγκατεστημένες στο περιβάλλον.
+
 blinker==1.9.0
 click==8.1.8
 dnspython==2.7.0
