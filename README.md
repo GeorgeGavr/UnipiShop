@@ -8,7 +8,6 @@
 
 - API σε Flask
 - NoSQL βάση με MongoDB
-- Χρήση `.env` για κρυφά κλειδιά
 - Ετοιμότητα για AI + Analytics integration (GROQ API)
 - Export/Import δεδομένων
 
